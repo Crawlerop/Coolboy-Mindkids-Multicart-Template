@@ -1,0 +1,2 @@
+@echo off
+call NesTiler.exe --i0 logo.png --enable-palettes 0,1,2,3 --out-pattern-table0 menu_header_pattern_table.bin --out-name-table0 menu_header_name_table.bin --out-attribute-table0 menu_header_attribute_table.bin --out-palette0 bg_palette0.bin --out-palette1 bg_palette1.bin --out-palette2 bg_palette2.bin --bgcolor #000000

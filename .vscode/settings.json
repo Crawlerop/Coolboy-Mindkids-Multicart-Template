@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.s": "ca65",
+        "menu_texts.h": "c"
+    }
+}
